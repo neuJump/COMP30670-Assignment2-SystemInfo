@@ -29,7 +29,7 @@ How to run
 Clone the repository from GitHub into a local directory.
 Using an IDE, such as Eclipse, open the package enter the SystemInfo folder and execute main.py.
 Alternatively, using the command line cd into the local directory where the cloned repository is contained. Enter the folder, SystemInfo. Execute the following command: python main.py.
-To install the module on a local machine run the following command using a terminal: pip install git+https://github.com/neujump/COMP30670-Assignment2-SystemInfo
+To install the module on a local machine run the following command using a terminal: pip install git+https://github.com/neuJump/COMP30670-Assignment2-SystemInfo
 
 Credits
 -------
